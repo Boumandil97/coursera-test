@@ -31,9 +31,9 @@ p {
     color:white; 
 	padding-top: 40px;
 	padding-bottom: 10px;
-	
+	font-size:125%;
 	font-weight: 12px;
-	padding-left:3px;
+	padding-left:15px;
 	padding-right:15px;
 }
 
@@ -44,45 +44,37 @@ p {
   
 }
 
-#p1 {
-   background-color: #709fb0;
+p.section{
+	display: block;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
   height: 35px;
   width: 120px;
+	border-color:red;
   padding: 10px;
-  text-align: center;
+  text-align-last: center;
+	
+	
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#p1 {
+   background-color: #709fb0;
+
+ 
+ 
 
 }
 #p2 {
  background-color: #ffd880;
   color:#6b011f;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
+ 
 }
 #p3 {
   background-color: #e36bae;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
+ 
 }
 
 
