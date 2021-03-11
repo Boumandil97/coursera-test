@@ -1,4 +1,4 @@
-body{
+/*body{
 	background-color: #61122f;
 	font-family: 'Oxygen', sans-serif;
 	border-color: black;
@@ -223,7 +223,7 @@ span .glyphicon{
 #phone-number a{
 	text-decoration: none;
 	color:#61122f;
-	
+	padding-bottom:30px;
 }
 .deli{
 	text-align:center;
