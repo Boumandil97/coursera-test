@@ -205,7 +205,7 @@ span .glyphicon{
 	margin-right: 30vw;
 	background-color: #f6b319;
 	width:50vw;
-	height:12vw;
+	height:14vw;
 	text-align: center;
 	vertical-align: middle;
 	padding-top:15px;
@@ -223,7 +223,11 @@ span .glyphicon{
 #phone-number a{
 	text-decoration: none;
 	color:#61122f;
-	padding-bottom:30px;
+	
+}
+#phone-number a span{
+	
+	margin-bottom: 40px;
 }
 .deli{
 	text-align:center;
