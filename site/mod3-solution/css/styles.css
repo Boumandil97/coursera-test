@@ -7,11 +7,15 @@
 	color:black;
 }
 #nav-list{
-	background-color: dimgray;
+	
 	width:auto;
+	margin-left: 2px;
+	margin-right:2px;
+	broder:solid 1.5px black;
+	border-radius:10px;
 }
 #nav-list li{
-	text-align: center;
+	
 	font-size: 12px;
 	font-weight:bold;
 	color:white;
