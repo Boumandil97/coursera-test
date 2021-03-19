@@ -62,5 +62,6 @@ h1{
 	font-weight: 800;
 }
 h2{
-	color:black;
+	color:indianred;
+	text-decoration: underline;
 }
