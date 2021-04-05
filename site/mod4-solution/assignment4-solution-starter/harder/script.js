@@ -50,7 +50,7 @@ for (var i=0;i<names.length;i++) {
   // to lower case character 'j' afterwards.
   // Look up these methods on Mozilla Developer Network web site if needed.
    var firstLetter = names[i].charAt(0).toLocaleLowerCase();
-	console.log(firstLetter);
+//	console.log(firstLetter);
 	
 	
 
