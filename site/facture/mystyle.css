@@ -1,0 +1,108 @@
+body{
+	margin-left: 30px;
+	
+}
+table{
+	background-color: #ffd8cc;
+}
+#table1{
+	
+	margin-bottom: 50px;
+	height: 100px;
+	align-content: space-around;
+	margin-top: 300px;
+	
+	
+}
+#table1 td{
+	width:200px;
+	height:3em;
+}
+
+#table3 td, #table4 td{
+	width:40px;
+	height:50px;
+	
+	
+	
+}
+#table2{
+	
+	align-content:center; 
+}
+#table2 td{
+	margin-bottom: 50px;
+	height: 500px;
+	width:150px;
+}
+#table3{
+	float:left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+	height: 90px;
+	
+}
+#table4{
+	float:right;
+	margin-right: 150px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+	margin-top: -20px;
+	
+}
+#table4 td{
+	width:100px;
+	
+}
+#table3 td{
+	height: 90px;
+	margin-bottom: 500px;
+	width: 100px;
+}
+p{
+	border: solid black 3px;
+	float:right;
+	marging:0px,20px,30px,0px;
+}
+h1{
+	font-size:50px;
+	text-align: center;
+}
+h2{
+	margin-top: 200px;
+	margin-bottom: -200px;
+	padding: 0px;
+	font-size: 30px;
+}
+div{
+	float: right;
+	margin-top: 400px;
+}
+Button{
+	width:700px;
+	height: 60px;
+	border:solid 3px;
+	border-radius: 30px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 30px;
+	color: #ffffff;
+	position:relative;
+	top: 200px;
+	right:0px;
+	background-color: #e5322d;
+}
+#load{
+	
+	
+	
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	position:relative;
+	top: 270px;
+	right:-500px;
+}
+#header{
+	margin-bottom: 0px;
+}
